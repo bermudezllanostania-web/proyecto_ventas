@@ -24,11 +24,17 @@ Ejecutar la aplicacion Streamlit
 streamlit run app.py
 
 Esto abrira la interfaz web donde podras:
+
 Subir tu dataset
+
 Ver estadisticas
+
 Hacer analisis exploratorio (EDA)
+
 Entrenar un modelo
+
 Obtener metricas
+
 Realizar predicciones
 
 Archivos del repositorio:
@@ -38,13 +44,9 @@ requirements.txt --> Librerias necesarias
 README.md --> Documentacion del proyecto
 
 Modelos soportados:
+
 Regresion Lineal
+
 Ridge Regression
+
 Random Forest Regressor
-
-Autores
-Proyecto realizado para el parcial de Mineria de Datos.
-Integrantes del grupo: (colocar nombres)
-
-Repositorio publico en GitHub
-Este proyecto esta disponible para revision por parte del docente
